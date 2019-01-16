@@ -1,0 +1,13 @@
+<html>
+    <body>
+   	<script type="text/javascript">
+   	   	var num = parseInt(prompt('Enter a number'));
+   	   	var total =0;
+   		while(num!=-1){
+   			var num = parseInt(prompt('Enter a number'));
+   			total= total +num;
+   		}
+   		document.write(total);
+   	</script>
+    </body>
+</html>
